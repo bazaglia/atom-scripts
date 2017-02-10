@@ -1,0 +1,3 @@
+# reformat from init script
+'atom-text-editor':
+  'cmd-alt-l': 'custom:reformat'
